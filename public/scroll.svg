@@ -1,0 +1,10 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Scroll CTA">
+<g id="Ellipse 1" style="mix-blend-mode:overlay">
+<circle cx="25" cy="25" r="24" stroke="white" stroke-width="2"/>
+</g>
+<g id="Arrow 1" style="mix-blend-mode:overlay">
+<path d="M24.2929 29.7071C24.6834 30.0976 25.3166 30.0976 25.7071 29.7071L32.0711 23.3431C32.4616 22.9526 32.4616 22.3195 32.0711 21.9289C31.6805 21.5384 31.0474 21.5384 30.6569 21.9289L25 27.5858L19.3431 21.9289C18.9526 21.5384 18.3195 21.5384 17.9289 21.9289C17.5384 22.3195 17.5384 22.9526 17.9289 23.3431L24.2929 29.7071ZM24 28L24 29L26 29L26 28L24 28Z" fill="white"/>
+</g>
+</g>
+</svg>

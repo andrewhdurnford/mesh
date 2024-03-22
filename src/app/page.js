@@ -152,14 +152,16 @@ export default function Home() {
           </div>
         </motion.div>
       </div>
-      <div className="flex justify-between w-full mt-52 mb-52">
+      <div className="flex justify-between w-full mt-52 mb-80">
+        <div className="flex justify-center w-96">
         <Image
-          className="ml-14 fill-white"
-          src="/phones.svg"
+          className="ml-24 fill-white"
+          src="/gps.svg"
           alt="profile picture"
-          width={500}
-          height={500}
+          width={250}
+          height={250}
         />
+        </div>
         <div className="mr-10 flex flex-col justify-center items-center w-34rem">
           <div className="font-DTWT text-2xl font-medium text-white text-center">
             You pass over 1000 people a day

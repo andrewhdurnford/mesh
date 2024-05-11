@@ -152,14 +152,14 @@ export default function Home() {
           </div>
         </motion.div>
       </div>
-      <div className="flex justify-between w-full mt-52 mb-80">
+      <div className="flex justify-between w-full mt-52 mb-96">
         <div className="flex justify-center w-96">
         <Image
           className="ml-24 fill-white"
           src="/gps.svg"
           alt="profile picture"
-          width={250}
-          height={250}
+          width={200}
+          height={200}
         />
         </div>
         <div className="mr-10 flex flex-col justify-center items-center w-34rem">
